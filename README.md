@@ -1,9 +1,9 @@
 # README
 
-Slides of seminar "The Blockchain from a DS / DAI perspective" given by Stefano Mariani for the course of Distributed Artificial Intelligence 2019/2020 held by Prof. Franco Zambonelli at the University of Modena and Reggio Emilia (master degree in Computer Science Engineering)
+Slides of seminar "The Blockchain from a data management perspective" given by Stefano Mariani for the course of Data Science and Management 2020/2021 held by Prof. Marco Lippi at the University of Modena and Reggio Emilia (master degree in Computer Science Engineering)
 
- * Interactive presentation: [here](https://smarianimore.github.io/dief-daiseminar2020/)
- * PDF version: [there](https://smarianimore.github.io/dief-daiseminar2020/?print-pdf)
+ * Interactive presentation: [here](https://smarianimore.github.io/dismi-dsm/)
+ * PDF version: [there](https://smarianimore.github.io/dismi-dsm/?print-pdf)
 
 Slides built with reveal.js (info below)
 
